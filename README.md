@@ -1,4 +1,4 @@
-# DataCamp 2023 Competition: Create the Perfect Party Playlist! 🎶
+# DataCamp 2023 Competition Winner: Create the Perfect Party Playlist! 🎶
 
 ![Leaderboard Screenshot](readme_files/Capture.PNG)
 

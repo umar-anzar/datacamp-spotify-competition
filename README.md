@@ -10,9 +10,9 @@ Our dedication and analytical skills led us to secure the **1st place** in this 
 Inventing a new data deduplication technique and the Proportional Distribution Algorithm, utilizing NLP for linguistic context, applying the innovative Phik correlation technique, and presenting our insights through clear and engaging storytelling were key factors that contributed to our success in this competition. 🏆🌟
 
 
-![Competition Winner Screenshot](readme_files\judges_remarks_Page2.png)
+![Competition Winner Screenshot](readme_files/judges_remarks_Page2.png)
 ![Leaderboard Screenshot](readme_files/Capture.PNG)
-![Judges Remarks Screenshot](readme_files\judges_remarks_Page3.png)
+![Judges Remarks Screenshot](readme_files/judges_remarks_Page3.png)
 
 ## Competition Details
 
